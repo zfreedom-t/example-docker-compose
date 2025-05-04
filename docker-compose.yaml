@@ -7,4 +7,4 @@ services:
     ports:
       - "35455:35455"
     network_mode: bridge
-    command: -tv=true -aesKey=ql7r41tdy2x2u8qb0qmad17s0gqq3wgg -userid=2126895861 -token=a7afc46afca5561654a75c1176c31e841a6434f66f25239c5b7d69b7b81c6320c9e5e3d8aaf996d2bc8d2cc312f723292bfd279d7f82ba80ce0aff69f1fd8c0643611bd8c50913
+    command: -tv=true -aesKey=cksc2y1k7a9bz1spoqpt41i8i1372gq4 -userid=2126895861 -token=4a0e8326a032c5c1bd441a9cbaf7da635aea4f90697b637b26c8ea8f129525c7af0825ef81e4089887611408921b01915157ce9fe686ed9e669dc9d584dec55d2796f44c48d806
